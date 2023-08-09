@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Enverus\Program.csproj" />
+    <ProjectReference Include="..\Program\Program.csproj" />
   </ItemGroup>
 
 </Project>
